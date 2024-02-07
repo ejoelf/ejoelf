@@ -1,5 +1,5 @@
 ### Holaaa! 👋
-Mi nombre es Joel Fernandez, actualmente estudiante del bootcamp de ### Soy Henry 🚀
+Mi nombre es Joel Fernandez, actualmente estudiante del bootcamp de Soy Henry 🚀
 como Desarrollador Web Full stack 💻
 
 ### Contactame
