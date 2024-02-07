@@ -1,8 +1,8 @@
 ### Holaaa! 👋
-Mi nombre es Joel Fernandez, actualmente estudiante del bootcamp de ##Soy Henry 🚀
+Mi nombre es Joel Fernandez, actualmente estudiante del bootcamp de ###Soy Henry 🚀
 como Desarrollador Web Full stack 💻
 
-##Contactame
+###Contactame
 [LinkedIn](https://www.linkedin.com/in/eric-joel-fern%C3%A1ndez-b1b5b0234/) | [GitHub](https://github.com/ejoelf)
 <!--
 **ejoelf/ejoelf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
